@@ -1,0 +1,35 @@
+[
+   {
+     "remote":       "github",
+     "repository": "Huawei-Dev/android_kernel_huawei_msm8939",
+     "target_path": "kernel/huawei/msm8939",
+     "branch":      "7.1.1"
+   },
+   {
+     "remote":       "github",
+     "repository": "Huawei-Dev/android_vendor_huawei_rio",
+     "target_path": "vendor/huawei/rio",
+     "branch":      "7.1.1"
+   },
+   {
+     "remote":       "github",
+     "repository": "lineageos/android_external_sony_boringssl-compat",
+     "target_path": "external/sony/boringssl-compat",
+     "branch":      "cm-14.1"
+   },
+   {
+     "remote":       "github",
+     "repository": "lineageos/android_packages_resources_devicesettings",
+     "target_path": "packages/resources/devicesettings",
+     "branch":      "cm-14.1"
+   }
+]
+
+
+
+  
+  
+   
+  
+   
+

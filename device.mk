@@ -116,7 +116,7 @@ PRODUCT_PACKAGES += \
 
 # SNAP Camera
 PRODUCT_PACKAGES += \
-    Snap
+    SnapdragonCamera
 
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     camera2.portability.force_api=1
@@ -156,10 +156,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fingerprint.msm8916 \
     fingerprintd
-
-# FlipFlap
-PRODUCT_PACKAGES += \
-    FlipFlap
 
 # FM
 PRODUCT_PACKAGES += \
