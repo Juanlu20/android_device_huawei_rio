@@ -15,9 +15,14 @@
      "branch":      "cm-14.1"
    },
    {
-     "repository": "allurba/android_kernel_huawei_msm8939",
-     "target_path": "kernel/huawei/msm8939",
-     "branch":      "7.1.1"
+    "repository": "LineageOS/android_packages_apps_FlipFlap",
+    "target_path": "packages/apps/FlipFlap",
+    "branch":      "cm-14.1"
+   },
+   {
+    "repository": "allurba/android_kernel_huawei_msm8939",
+    "target_path": "kernel/huawei/msm8939",
+    "branch":      "7.1.1"
    },
    {
      "repository": "LineageOS/android_packages_resources_devicesettings",
