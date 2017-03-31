@@ -6,9 +6,7 @@ ro.config.max_starting_bg=8
 ro.sys.fw.use_trim_settings=true
 
 # Audio
-af.fast_track_multiplier=1
-audio_hal.period_size=192
-
+audio_hal.period_size=240
 ro.qc.sdk.audio.fluencetype=fluence
 persist.audio.fluence.voicecall=true
 persist.audio.fluence.voicerec=false
