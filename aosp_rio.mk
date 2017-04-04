@@ -17,10 +17,6 @@ $(call inherit-product, device/huawei/rio/full_rio.mk)
 # Inherit some common AOSP-OMS stuff.
 $(call inherit-product, vendor/aosp/common.mk)
 
-# Boot animation
-TARGET_SCREEN_HEIGHT := 1920
-TARGET_SCREEN_WIDTH := 1080
-
 PRODUCT_NAME := aosp_rio
 BOARD_VENDOR := huawei
 
