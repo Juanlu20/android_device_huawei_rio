@@ -1,1 +1,1 @@
-add_lunch_combo lineage_rio-userdebug
+add_lunch_combo slim_rio-userdebug
