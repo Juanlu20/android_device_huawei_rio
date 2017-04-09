@@ -1,6 +1,6 @@
 # android_device_huawei_rio
 
-Crear .repo/local_manifests/android_manifest.xml, y pega este contenido : 
+Crear .repo/local_manifests/local_manifest.xml, y pega este contenido : 
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
