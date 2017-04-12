@@ -20,7 +20,7 @@
     "branch":      "cm-14.1"
    },
    {
-    "repository": "allurba/android_kernel_huawei_msm8939",
+    "repository": "Huawei-Dev/android_kernel_huawei_msm8939",
     "target_path": "kernel/huawei/msm8939",
     "branch":      "7.1.1"
    },
@@ -30,7 +30,7 @@
      "branch":      "cm-14.1"
    },
    {
-     "repository": "allurba/android_vendor_huawei_rio",
+     "repository": "Huawei-Dev/android_vendor_huawei_rio",
      "target_path": "vendor/huawei/rio",
      "branch":      "7.1.1"
    }
