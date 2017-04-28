@@ -14,4 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/carbon_rio.mk
     $(LOCAL_DIR)/full_rio.mk
