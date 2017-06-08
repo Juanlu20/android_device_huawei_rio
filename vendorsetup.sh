@@ -1,1 +1,1 @@
-add_lunch_combo aosp_rio-userdebug
+add_lunch_combo du_rio-userdebug
